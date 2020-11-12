@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pokemon-type-effectiveness-checker/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/pokemon-type-effectiveness-checker/static/js/main.7ac1b85a.chunk.js",
+    "main.js.map": "/pokemon-type-effectiveness-checker/static/js/main.7ac1b85a.chunk.js.map",
+    "runtime-main.js": "/pokemon-type-effectiveness-checker/static/js/runtime-main.e676f114.js",
+    "runtime-main.js.map": "/pokemon-type-effectiveness-checker/static/js/runtime-main.e676f114.js.map",
+    "static/js/2.3e6a7b46.chunk.js": "/pokemon-type-effectiveness-checker/static/js/2.3e6a7b46.chunk.js",
+    "static/js/2.3e6a7b46.chunk.js.map": "/pokemon-type-effectiveness-checker/static/js/2.3e6a7b46.chunk.js.map",
+    "static/js/3.9af0cbb9.chunk.js": "/pokemon-type-effectiveness-checker/static/js/3.9af0cbb9.chunk.js",
+    "static/js/3.9af0cbb9.chunk.js.map": "/pokemon-type-effectiveness-checker/static/js/3.9af0cbb9.chunk.js.map",
+    "index.html": "/pokemon-type-effectiveness-checker/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/pokemon-type-effectiveness-checker/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.3e6a7b46.chunk.js.LICENSE.txt": "/pokemon-type-effectiveness-checker/static/js/2.3e6a7b46.chunk.js.LICENSE.txt",
+    "static/media/Pokemon_Bug_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Bug_Type_Icon.a6f6f190.svg",
+    "static/media/Pokemon_Dark_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Dark_Type_Icon.e139e037.svg",
+    "static/media/Pokemon_Dragon_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Dragon_Type_Icon.50f986be.svg",
+    "static/media/Pokemon_Electric_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Electric_Type_Icon.5b9316bb.svg",
+    "static/media/Pokemon_Fairy_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Fairy_Type_Icon.8b663435.svg",
+    "static/media/Pokemon_Fighting_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Fighting_Type_Icon.8ec17be2.svg",
+    "static/media/Pokemon_Fire_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Fire_Type_Icon.b81b69f3.svg",
+    "static/media/Pokemon_Flying_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Flying_Type_Icon.206bea18.svg",
+    "static/media/Pokemon_Ghost_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Ghost_Type_Icon.f4f9a780.svg",
+    "static/media/Pokemon_Grass_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Grass_Type_Icon.bdc5b553.svg",
+    "static/media/Pokemon_Ground_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Ground_Type_Icon.c88b21d0.svg",
+    "static/media/Pokemon_Ice_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Ice_Type_Icon.a2369f6d.svg",
+    "static/media/Pokemon_Normal_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Normal_Type_Icon.97b3fe56.svg",
+    "static/media/Pokemon_Poison_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Poison_Type_Icon.fe41a0ec.svg",
+    "static/media/Pokemon_Psychic_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Psychic_Type_Icon.1ff2b9e2.svg",
+    "static/media/Pokemon_Rock_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Rock_Type_Icon.cbe1ed87.svg",
+    "static/media/Pokemon_Steel_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Steel_Type_Icon.08f9721f.svg",
+    "static/media/Pokemon_Water_Type_Icon.svg": "/pokemon-type-effectiveness-checker/static/media/Pokemon_Water_Type_Icon.2e85de33.svg",
+    "static/media/logo.103b5fa1.svg": "/pokemon-type-effectiveness-checker/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e676f114.js",
+    "static/js/2.3e6a7b46.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.7ac1b85a.chunk.js"
+  ]
+}
