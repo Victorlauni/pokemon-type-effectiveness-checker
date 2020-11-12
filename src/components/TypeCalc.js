@@ -304,6 +304,7 @@ export default function TypeCalc(props) {
       <Grid item xs={6} className={classes.gridCon}>
         {Object.entries(typeChart).map(val => (
           <Button disableRipple={mode==1} disabled={mode==1}
+            key={val[0]}
             variant='outlined'
             className={mode==1 ?`${classes.typeField} ${defendLevelToClass(getDefendEff(val[0]))}`: `${classes.typeButton} ${selectedType.has(val[0])? classes.activeButton: ""}`}
             onClick={handleTypeSelect(val[0])}
@@ -316,6 +317,7 @@ export default function TypeCalc(props) {
       <Grid item xs={6} className={classes.gridCon}>
         {Object.entries(typeChart).map((val) => (
           <Button disableRipple={mode==0} disabled={mode==0}
+            key={val[0]}
             variant='outlined' 
             className={mode==0 ?`${classes.typeField} ${attackLevelToClass(getAttackEff(val[0]))}`: `${classes.typeButton} ${selectedType.has(val[0])? classes.activeButton: ""}`}
             onClick={handleTypeSelect(val[0])} 
